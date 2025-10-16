@@ -1,0 +1,119 @@
+* {
+    margin: 0;
+    padding: 0;
+    color: white;
+}
+
+
+
+.top-img {
+    background-image: url(../img/marcell-rubies-0lZqwNxuE6o-unsplash.jpg);
+    background-size: cover;
+    background-position: center;
+}
+  
+.top-text {
+    padding: 240px 0px;
+    text-align: center;
+}
+
+.top-text h1 {
+    font-family: "Dancing Script", cursive;
+    font-size: 100px;
+}
+
+
+nav h3 {
+    font-family: "Dancing Script", cursive;
+}
+
+nav i {
+    color: #888;
+}
+
+.feature-area {
+    background-image: url(../img/slava-auchynnikau-Qg3JnBHTU00-unsplash.jpg);
+    background-size: cover;
+    padding: 250px 0px;
+    text-align: center;
+}
+
+.feature-area h2 {
+    font-size: 80px;
+    font-family: "Dancing Script", cursive;
+    margin-bottom: 40px;
+}
+
+.service-list {
+    background-color: black;
+    padding: 50px; 
+    text-align: center;
+}
+
+.service-list h2 {
+    text-align: center;
+    font-size: 80px;
+    font-family: "Dancing Script", cursive;
+}
+
+.servie-description {
+    padding: 30px;
+}
+
+.size {
+   width: 100%;
+    background-size: cover;
+}
+
+.infomation-area {
+    background-image: url(../img/nico-meier-X2RsznRlBrY-unsplash.jpg);
+    background-size: cover;
+    padding: 250px 0px;
+    text-align: center;
+}
+
+.info {
+    border: 1px solid white;
+    margin: 20px;
+    padding: 20px;
+}
+
+.infomation-area h2 {
+    font-size: 80px;
+    font-family: "Dancing Script", cursive;
+}
+
+.info p{
+    padding-top: 10px;
+}
+
+footer {
+    background-color: #333;
+    padding: 30px;
+}
+
+footer ul li { 
+    list-style: none;
+}
+
+footer ul li a {
+    color: #aaa;
+    font-size: 13px;
+    text-decoration: none;
+}
+
+footer ul li a:hover {
+    text-decoration: none;
+}
+
+@media (max-width:567px) {
+    footer {
+        text-align: center;
+    }
+}
+
+
+
+
+
+
